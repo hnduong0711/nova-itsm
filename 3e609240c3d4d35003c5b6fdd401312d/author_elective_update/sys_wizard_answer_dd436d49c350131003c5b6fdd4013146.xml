@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Nova Incident</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Nova Incident</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">b84e9d04a56103108bb220b7a4d21278</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-31 05:26:47</sys_created_on>
+        <sys_id>dd436d49c350131003c5b6fdd4013146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nova Incident</sys_name>
+        <sys_package display_value="NovaTech" source="x_2132287_novatech">3e609240c3d4d35003c5b6fdd401312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NovaTech">3e609240c3d4d35003c5b6fdd401312d</sys_scope>
+        <sys_update_name>sys_wizard_answer_dd436d49c350131003c5b6fdd4013146</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-31 05:26:47</sys_updated_on>
+        <table/>
+        <target_url>x_2132287_novatech_nova_incident.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NovaTech">3e609240c3d4d35003c5b6fdd401312d</application>
+        <file_path/>
+        <instance_id>837a8818eba46254e9bbfddacad0cd6f</instance_id>
+        <instance_name>dev307534</instance_name>
+        <merge_base/>
+        <name>sys_wizard_answer_dd436d49c350131003c5b6fdd4013146</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Nova Incident</answer><button_label/><dependent_value/><element/><name>Nova Incident</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">b84e9d04a56103108bb220b7a4d21278</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-31 05:26:47</sys_created_on><sys_id>dd436d49c350131003c5b6fdd4013146</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Nova Incident</sys_name><sys_package display_value="NovaTech" source="x_2132287_novatech">3e609240c3d4d35003c5b6fdd401312d</sys_package><sys_policy/><sys_scope display_value="NovaTech">3e609240c3d4d35003c5b6fdd401312d</sys_scope><sys_update_name>sys_wizard_answer_dd436d49c350131003c5b6fdd4013146</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-31 05:26:47</sys_updated_on><table/><target_url>x_2132287_novatech_nova_incident.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>702577493</payload_hash>
+        <record_name>Nova Incident</record_name>
+        <reverted_from/>
+        <source>3a609240c3d4d35003c5b6fdd4013136</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-31 05:26:47</sys_created_on>
+        <sys_id>d5436d49c350131003c5b6fdd401314c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1906cbd5d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-31 05:26:47</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>95436d49ea50131065b0cdc66379424b</update_guid>
+        <update_guid_history>95436d49ea50131065b0cdc66379424b:702577493</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-31 05:54:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>0c2ea6b15c424510834309fe6c3bac90</sys_id>
+        <sys_metadata>dd436d49c350131003c5b6fdd4013146</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nova Incident</sys_name>
+        <sys_package display_value="NovaTech" source="x_2132287_novatech">3e609240c3d4d35003c5b6fdd401312d</sys_package>
+        <sys_parent display_value="Task">b84e9d04a56103108bb220b7a4d21278</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NovaTech">3e609240c3d4d35003c5b6fdd401312d</sys_scope>
+        <sys_scope_delete display_value="">b5ef1f5795dc47e99cb60036c443a619</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_dd436d49c350131003c5b6fdd4013146</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_dd436d49c350131003c5b6fdd4013146">d5436d49c350131003c5b6fdd401314c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-31 05:54:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

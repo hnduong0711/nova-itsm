@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">b04e9d04a56103108bb220b7a4d21274</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-31 05:26:47</sys_created_on>
+        <sys_id>55436d49c350131003c5b6fdd401313a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="NovaTech" source="x_2132287_novatech">3e609240c3d4d35003c5b6fdd401312d</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-31 05:26:47</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

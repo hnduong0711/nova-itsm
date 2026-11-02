@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="09432d49c350131003c5b6fdd40131eb" extends="task" label="Nova Incident" max_length="40" name="x_2132287_novatech_nova_incident" type="collection"/>
+</database>
